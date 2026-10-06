@@ -1,4 +1,4 @@
-# Caching - Bölüm 1: Spring Cache ve Yerel Önbellek
+# Caching - Bölüm 1: Spring Cache ve Yerel Önbellek (Caffeine)
 
 ## 1. Sorun ve Takas
 
